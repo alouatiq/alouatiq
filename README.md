@@ -31,7 +31,7 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
