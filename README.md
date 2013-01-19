@@ -33,6 +33,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 <div align="center"><sub>Profile in progress — building in public.</sub></div>
