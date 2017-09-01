@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![Associate](https://img.shields.io/badge/Associate-Electronic_Instrumentation-455a64?style=for-the-badge) &nbsp; **KNRTU-KAI** &middot; 🇷🇺 Russia  
+> ⚙️ Foundations in electronics, microcircuit design & radio engineering
+
 > ![B.Tech](https://img.shields.io/badge/B.Tech-Information_Systems_%26_Computing-b8860b?style=for-the-badge) &nbsp; **Aix-Marseille University** &middot; 🇫🇷 France  
 > 🗄️ [Micro-System for Enterprise Resource Planning](https://github.com/alouatiq/Edu.AMU_MicroSystemForEnterpriseResourcePlanning)
 
