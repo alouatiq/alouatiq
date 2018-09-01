@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![M.Eng](https://img.shields.io/badge/M.Eng-Embedded_Systems_%26_Radio_Eng-0000cd?style=for-the-badge) &nbsp; **KNRTU-KAI** &middot; 🇷🇺 Russia  
+> 🩺 [Automated System for Human-Physiology Estimation via IoT](https://github.com/alouatiq/Edu.KNRTU-KAI_AutomatedSystemForHumanPhysiologyParameter)
+
 > ![Associate](https://img.shields.io/badge/Associate-Electronic_Instrumentation-455a64?style=for-the-badge) &nbsp; **KNRTU-KAI** &middot; 🇷🇺 Russia  
 > ⚙️ Foundations in electronics, microcircuit design & radio engineering
 
