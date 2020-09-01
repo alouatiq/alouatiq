@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![Ph.D](https://img.shields.io/badge/Ph.D-Photonics_%26_Bio--Optical_Systems-4b0082?style=for-the-badge) &nbsp; **Altai State Technical University** &middot; 🇷🇺 Russia  
+> 🌬️ [AI-Driven Condition Monitoring of Wind-Turbine Gearboxes with ML](https://github.com/alouatiq/Edu.AltSTU_Wind_Turbine_Gearbox__Monitorin_ML)
+
 > ![M.Eng](https://img.shields.io/badge/M.Eng-Embedded_Systems_%26_Radio_Eng-0000cd?style=for-the-badge) &nbsp; **KNRTU-KAI** &middot; 🇷🇺 Russia  
 > 🩺 [Automated System for Human-Physiology Estimation via IoT](https://github.com/alouatiq/Edu.KNRTU-KAI_AutomatedSystemForHumanPhysiologyParameter)
 
