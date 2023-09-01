@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![Diploma](https://img.shields.io/badge/Diploma-Software_Engineering_Plus-0a66c2?style=for-the-badge) &nbsp; **ALX — African Leadership** &middot; 🌍 Pan-Africa  
+> 🎓 [E-Madrasa — EdTech Platform for Rural Morocco](https://github.com/alouatiq/ALX)
+
 > ![Ph.D](https://img.shields.io/badge/Ph.D-Photonics_%26_Bio--Optical_Systems-4b0082?style=for-the-badge) &nbsp; **Altai State Technical University** &middot; 🇷🇺 Russia  
 > 🌬️ [AI-Driven Condition Monitoring of Wind-Turbine Gearboxes with ML](https://github.com/alouatiq/Edu.AltSTU_Wind_Turbine_Gearbox__Monitorin_ML)
 
