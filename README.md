@@ -1,25 +1,36 @@
-<h1>Hi, I'm Al Ouatiq! <br/><a href="https://github.com/alouatiq">Digitalization Engineer</a>, <a href="https://www.linkedin.com/in/alouatiq/">Ph.D. Researcher</a></h1>
+<h1>Hi, I'm Alouatiq!👋 <br/><a href="https://github.com/alouatiq">SWE</a>, <a href="https://linkedin.com/in/alouatiq">Digitalization Engineer</a>, <a href="https://www.linkedin.com/in/alouatiq/">Ph.D. Researcher</a></h1>
+## 👨‍💻 Digitalization and Technology Projects:
 
-<h2>👨‍💻 Digitalization and Technology Projects:</h2>
+- **Empowering Education: E-Madrasa**
+  - [ALx Foundation Project: E-Madrasa](https://portfolio.alouatiq.com/2024/01/blog-post.html)
+    
+- **Digital Twin Implementation (Wind Turbine Production)**
+  - [Digital Layout Board]()
+  
+- **IoT and Sensors Integration**
+  - [IoT Solutions for Wind Turbines]()
 
-- <b>Digital Twin Implementation (Wind Turbine Production)</b>
-  - [LEH Digital Layout Board](insert_link_here) 
-- <b>IoT and Sensors Integration</b>
-  - [IoT Solutions for Wind Turbines](insert_link_here)
-- <b>Robotic Technologies</b>
-  - [Predictive Robot Hand Techniques](insert_link_here)
+## 📺 Academic Research and Publications
 
-<h2>📺 Academic Research and Publications</h2>
+- DEUP [Management platform of technical systems for industrial companies]()
+- Bachelor [Micro System for Enterprise Resource Planning]()
+- Master [Automated System for Human Physiology Parameter Estimation based on Physiological Signals Measurement and Internet of Things Infrastructure]()
+- Ph.D. [Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Shop-Floor Maintenance - Practice on Wind Turbine Industry]()
 
-- [Ph.D. Research on "Digital Transformation in Industry"](insert_link_here)
-- [Automated System for Human Physiology Parameter Estimation](insert_link_here)
+## 📚 Research Profiles:
 
-<h2> 🤳 Connect with me:</h2>
+- [ResearchGate](https://www.researchgate.net/profile/Hassan-Al-Ouatiq)
+- [ORCID](https://orcid.org/0000-0003-4330-5608)
+
+## 🤳 Connect with me:
 
 [<img align="left" alt="AlOuatiq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlOuatiq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlOuatiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlOuatiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[twitter]: https://twitter.com/alouatiqcom
-[instagram]: https://www.instagram.com/alouatiqcom/
 [linkedin]: https://linkedin.com/in/alouatiq
+[twitter]: https://twitter.com/alouatiqcom
+[instagram]: https://www.instagram.com/alouatiqcom
+[facebook]: https://facebook.com/in/alouatiqcom
+
