@@ -36,5 +36,6 @@ https://x.com/alouatiqcom)
 - ![Profile views](https://komarev.com/ghpvc/?username=alouatiq&color=brightgreen) Profile views
 - ![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=social) Followers
 - ![GitHub stars](https://img.shields.io/github/stars/alouatiq?label=GitHub%20Stars&style=social) Stars on GitHub
+  
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=alouatiq&show_icons=true&count_private=true)
 
