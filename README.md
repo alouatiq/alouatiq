@@ -29,7 +29,7 @@
 [<img align="left" alt="AlOuatiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AlOuatiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[![LinkedIn](https://linkedin.com/in/alouatiq)
-[![twitter](https://x.com/alouatiqcom)
-[![instagram](https://www.instagram.com/alouatiqcom)
-[![facebook](https://facebook.com/in/alouatiqcom)
+[![LinkedIn](https://linkedin.com/in/alouatiq)]
+[![twitter](https://x.com/alouatiqcom)]
+[![instagram](https://www.instagram.com/alouatiqcom)]
+[![facebook](https://facebook.com/in/alouatiqcom)]
