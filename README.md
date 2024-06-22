@@ -1,4 +1,5 @@
 <h1>Hi, I'm Alouatiq!👋 <br/><a href="https://github.com/alouatiq">SWE</a>, <a href="https://linkedin.com/in/alouatiq">Digitalization Engineer</a>, <a href="https://www.researchgate.net/profile/Hassan-Al-Ouatiq">Ph.D. Researcher</a></h1>
+
 ## 👨‍💻 Digitalization and Technology Projects:
 
 - **Empowering Education: E-Madrasa**
