@@ -3,12 +3,6 @@
 
 - **Empowering Education: E-Madrasa**
   - [ALx Foundation Project: E-Madrasa](https://portfolio.alouatiq.com/2024/01/blog-post.html)
-    
-- **Digital Twin Implementation (Wind Turbine Production)**
-  - [Digital Layout Board]()
-  
-- **IoT and Sensors Integration**
-  - [IoT Solutions for Wind Turbines]()
 
 ## 📺 Academic Research and Publications
 
