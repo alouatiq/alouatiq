@@ -7,15 +7,18 @@
 
 ## 📺 Academic Research and Publications
 
-- DEUP [Management platform of technical systems for industrial companies]()
-- Bachelor [Micro System for Enterprise Resource Planning]()
-- Master [Automated System for Human Physiology Parameter Estimation based on Physiological Signals Measurement and Internet of Things Infrastructure]()
-- Ph.D. [Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Shop-Floor Maintenance - Practice on Wind Turbine Industry]()
+[![PhD](https://img.shields.io/badge/PhD-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance) Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Shop-Floor Maintenance - Practice on Wind Turbine Industry.
+
+[![Master's](https://img.shields.io/badge/Master's-0000FF?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/342004903_Automated_System_for_Human_Physiology_Parameter_Estimation_based_on_Physiological_Signals_Measurement_and_Internet_of_Things_Infrastructure) Automated System for Human Physiology Parameter Estimation based on Physiological Signals Measurement and Internet of Things Infrastructure
+
+[![Bachelor's](https://img.shields.io/badge/Bachelor's-FFD700?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/340741973_Micro_System_for_Enterprise_Resource_Planning) Micro System for Enterprise Resource Planning
+
+[![DEUP](https://img.shields.io/badge/DEUP-8A2BE2?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/341804048_Management_platform_of_technical_systems_for_industrial_companies) Management platform of technical systems for industrial companies
+
 
 ## 📚 Research Profiles:
-
-- [ResearchGate](https://www.researchgate.net/profile/Hassan-Al-Ouatiq)
-- [ORCID](https://orcid.org/0000-0003-4330-5608)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hassan-Al-Ouatiq)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-4330-5608)
 
 ## 🤳 Connect with me:
 
