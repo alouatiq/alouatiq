@@ -7,7 +7,7 @@
 
 ## 📺 Academic Research and Publications
 
-[![PhD](https://img.shields.io/badge/PhD-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance) Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Shop-Floor Maintenance - Practice on Wind Turbine Industry.
+[![PhD](https://img.shields.io/badge/PhD-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance) Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Wind-Turbine / Shop-Floor Maintenance - Practice on Wind Turbine Industry.
 
 [![Master's](https://img.shields.io/badge/Master's-0000FF?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/342004903_Automated_System_for_Human_Physiology_Parameter_Estimation_based_on_Physiological_Signals_Measurement_and_Internet_of_Things_Infrastructure) Automated System for Human Physiology Parameter Estimation based on Physiological Signals Measurement and Internet of Things Infrastructure
 
