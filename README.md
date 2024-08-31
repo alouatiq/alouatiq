@@ -31,9 +31,6 @@
 |---------------|-----------|------------------------------------|-----------|
 | ALx Foundation Project: E-Madrasa | [Rep]() | [Article](https://portfolio.alouatiq.com/2024/01/blog-post.html) | [Demo](https://portfolio.alouatiq.com/2024/01/blog-post.html) |
 
-
-
-
 ## 📺 Academic Research, Publications and Projects:
 
 [![Dip.](https://img.shields.io/badge/Dip.-00008B?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/alouatiq/ALX) Airbnb Project
