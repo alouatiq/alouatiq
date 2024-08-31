@@ -26,9 +26,13 @@
 
 
 ## 👨🏻‍💻 Digitalization and Technology Projects:
+    
+| Project | Rep. | Article | Demo/Video |
+|---------------|-----------|------------------------------------|-----------|
+| ALx Foundation Project: E-Madrasa | [Rep]() | [Article](https://portfolio.alouatiq.com/2024/01/blog-post.html) | [Demo](https://portfolio.alouatiq.com/2024/01/blog-post.html) |
 
-- **Empowering Education: E-Madrasa**
-  - [ALx Foundation Project: E-Madrasa](https://portfolio.alouatiq.com/2024/01/blog-post.html)
+
+
 
 ## 📺 Academic Research, Publications and Projects:
 
