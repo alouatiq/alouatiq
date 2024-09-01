@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![Executive MBA](https://img.shields.io/badge/Executive_MBA-Chief_Digital_Officer-c0392b?style=for-the-badge) &nbsp; **ESG Paris** &middot; 🇫🇷 France  
+> 📈 [Strategic Business Plan for Digital Transformation — CDO Practices](https://github.com/alouatiq/Edu.ESG_StrategicBusinessPlanforDigitalTransformation)
+
 > ![Diploma](https://img.shields.io/badge/Diploma-Software_Engineering_Plus-0a66c2?style=for-the-badge) &nbsp; **ALX — African Leadership** &middot; 🌍 Pan-Africa  
 > 🎓 [E-Madrasa — EdTech Platform for Rural Morocco](https://github.com/alouatiq/ALX)
 
