@@ -36,16 +36,13 @@
 
 ## 📺 Academic Research, Publications and Projects:
 
-[![Dip.](https://img.shields.io/badge/Dip.-00008B?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/alouatiq/ALX) Airbnb Project
-
-[![Ph.D.](https://img.shields.io/badge/PhD-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance) Digital Transformation in Industry: A Predictive and Performance-Oriented Approach for Wind-Turbine / Shop-Floor Maintenance - Practice on Wind Turbine Industry.
-
-[![Master's](https://img.shields.io/badge/Master's-0000FF?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/342004903_Automated_System_for_Human_Physiology_Parameter_Estimation_based_on_Physiological_Signals_Measurement_and_Internet_of_Things_Infrastructure) Automated System for Human Physiology Parameter Estimation based on Physiological Signals Measurement and Internet of Things Infrastructure
-
-[![Bachelor's](https://img.shields.io/badge/Bachelor's-FFD700?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/340741973_Micro_System_for_Enterprise_Resource_Planning) Micro System for Enterprise Resource Planning
-
-[![DEUP](https://img.shields.io/badge/DEUP-8A2BE2?style=for-the-badge&logo=academia&logoColor=white)](https://www.researchgate.net/publication/341804048_Management_platform_of_technical_systems_for_industrial_companies) Management platform of technical systems for industrial companies
-
+| **Degree** | **University** | **Field** | **Section** | **Speciality** | **Research Area/Project** |
+|------------|----------------|-----------|-------------|----------------|---------------------------|
+| ![Dip.](https://img.shields.io/badge/Dip.-00008B?style=for-the-badge&logo=academia&logoColor=white) | African Leadership Academy | Software Engineering | Application Development and Leadership | Software Engineering Plus | [Airbnb Project](https://github.com/alouatiq/ALX) |
+| ![Ph.D.](https://img.shields.io/badge/PhD-4B0082?style=for-the-badge&logo=academia&logoColor=white) | Altai State Technical University | Engineering and Technical Sciences | 12.06.01 - Photonics, Instrumentation, Optical and Biotechnical Systems and Technologies | 05.11.13 - Devices and Methods for Monitoring the Natural Environment, Substances, Materials, and Products | [Digital Transformation in Industry: A Predictive and Performance-Oriented Approach](https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance) |
+| ![Master's](https://img.shields.io/badge/Master's-0000FF?style=for-the-badge&logo=academia&logoColor=white) | Kazan National Research Technical University named after A.N. TUPOLEV-KAI | Engineering and Technical Sciences | 11.00.00 Electronic Engineering, Radio Engineering and Communication | 11.04.01 Radio Engineering "Embedded Systems" | [Automated System for Human Physiology Parameter Estimation](https://www.researchgate.net/publication/342004903_Automated_System_for_Human_Physiology_Parameter_Estimation_based_on_Physiological_Signals_Measurement_and_Internet_of_Things_Infrastructure) |
+| ![Bachelor's](https://img.shields.io/badge/Bachelor's-FFD700?style=for-the-badge&logo=academia&logoColor=white) | Aix-Marseille University | Science and Technology | Computing Systems and Software | New Computer Technologies | [Micro System for Enterprise Resource Planning](https://www.researchgate.net/publication/340741973_Micro_System_for_Enterprise_Resource_Planning) |
+| ![DEUP](https://img.shields.io/badge/DEUP-8A2BE2?style=for-the-badge&logo=academia&logoColor=white) | Aix-Marseille University | Management in Computer Science | Specialized Tech in Computer Development | Computer Development | [Management platform of technical systems for industrial companies](https://www.researchgate.net/publication/341804048_Management_platform_of_technical_systems_for_industrial_companies) |
 
 ## 📚 Research Profiles:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hassan-Al-Ouatiq)
