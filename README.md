@@ -53,17 +53,16 @@
 ## 🤳 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alouatiq)
-[![Twitter](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](
-https://x.com/alouatiqcom)
+[![Twitter](https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alouatiqcom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alouatiqcom)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/in/alouatiqcom)
 
 
 ## 📊 Statistics
-- ![GitHub last commit](https://img.shields.io/github/last-commit/alouatiq/alouatiq?label=Last%20Contribution&style=flat) Last contribution date
-- ![Profile views](https://komarev.com/ghpvc/?username=alouatiq&color=brightgreen) Profile views
-- ![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=social) Followers
-- ![GitHub stars](https://img.shields.io/github/stars/alouatiq?label=GitHub%20Stars&style=social) Stars on GitHub
+![GitHub last commit](https://img.shields.io/github/last-commit/alouatiq/alouatiq?label=Last%20Contribution&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=alouatiq&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/alouatiq?label=GitHub%20Stars&style=social)
   
   ![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=alouatiq&)
   ![GitHub Status](https://github-readme-stats.vercel.app/api?username=alouatiq&show_icons=true&count_private=true)
