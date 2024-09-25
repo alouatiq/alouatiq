@@ -63,6 +63,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=alouatiq&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/alouatiq?label=GitHub%20Stars&style=social)
+
+  [![stats](https://github-readme-stats.vercel.app/api/top-langs?username=alouatiq&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=alouatiq&)
   ![GitHub Status](https://github-readme-stats.vercel.app/api?username=alouatiq&show_icons=true&count_private=true)
