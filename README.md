@@ -1,5 +1,7 @@
 <h1>Hi, I'm Al ouatiq!👋 <br/><a href="https://github.com/alouatiq">SWE</a>, <a href="https://linkedin.com/in/alouatiq">Digitalization Engineer</a>, <a href="https://www.researchgate.net/profile/Hassan-Al-Ouatiq">Ph.D. Researcher</a></h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alouatiq&theme=matrix&title=-Followers,-Stars,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 👨‍💻 Languages, Frameworks, Databases & Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -63,5 +65,6 @@ https://x.com/alouatiqcom)
 - ![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=social) Followers
 - ![GitHub stars](https://img.shields.io/github/stars/alouatiq?label=GitHub%20Stars&style=social) Stars on GitHub
   
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=alouatiq&show_icons=true&count_private=true)
+  ![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=alouatiq&)
+  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=alouatiq&show_icons=true&count_private=true)
 
