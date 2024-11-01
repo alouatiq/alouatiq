@@ -30,6 +30,9 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ## 🎓 Academic & Research Journey
 
+> ![M.C.A](https://img.shields.io/badge/M.C.A-Digital_Strategy_%26_Transformation-0e7c7b?style=for-the-badge) &nbsp; **Digital Campus** &middot; 🇫🇷 France  
+> 📈 [Strategic Business Plan for Digital Transformation](https://github.com/alouatiq/Edu.ESG_StrategicBusinessPlanforDigitalTransformation)
+
 > ![Executive MBA](https://img.shields.io/badge/Executive_MBA-Chief_Digital_Officer-c0392b?style=for-the-badge) &nbsp; **ESG Paris** &middot; 🇫🇷 France  
 > 📈 [Strategic Business Plan for Digital Transformation — CDO Practices](https://github.com/alouatiq/Edu.ESG_StrategicBusinessPlanforDigitalTransformation)
 
