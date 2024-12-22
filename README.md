@@ -1,4 +1,4 @@
-<h1>Hi, I'm Al ouatiq!👋 <br/><a href="https://github.com/alouatiq">SWE</a>, <a href="https://linkedin.com/in/alouatiq">Digitalization Engineer</a>, <a href="https://www.researchgate.net/profile/Hassan-Al-Ouatiq">Ph.D. Researcher</a></h1>
+<h1>Hi, I'm Al ouatiq!👋 <br/><a href="https://github.com/alouatiq">SWE</a>, <a href="https://linkedin.com/in/alouatiq">Tech-Lead Digitalization & Automation</a>, <a href="https://www.researchgate.net/profile/Hassan-Al-Ouatiq">Ph.D. Researcher</a>, <a href="https://alouatiq.com">MBA</a></h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alouatiq&theme=matrix&title=-Followers,-Stars,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,6 +21,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white) 
