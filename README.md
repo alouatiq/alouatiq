@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Hassan%20Al%20Ouatiq&fontSize=52&fontColor=e2c97e&fontAlignY=38&desc=Ph.D%20%E2%80%A2%20Tech%20Lead%20%E2%80%A2%20SWE%20%E2%80%A2%20MBA&descAlignY=60&descSize=18&descColor=9ab4c7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Hassan%20AL%20OUATIQ&fontSize=52&fontColor=e2c97e&fontAlignY=38&desc=Tech-Lead%20%E2%80%A2%20Ph.D%20%E2%80%A2%20MBA%20%E2%80%A2%20SWE&descAlignY=60&descSize=18&descColor=9ab4c7&animation=fadeIn" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Al_Ouatiq-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/alouatiq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_AL_OUATIQ-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/alouatiq)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hassan-Al-Ouatiq)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4330--5608-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4330-5608)
 [![Portfolio](https://img.shields.io/badge/Portfolio-alouatiq.com-e2c97e?style=flat-square&logo=firefox&logoColor=black)](https://alouatiq.com)
@@ -29,11 +29,12 @@
 
 > *"Engineering systems that think, adapt, and scale — from shop-floor sensors to enterprise software."*
 
-I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersection of **industrial digitalization**, **predictive systems**, and **full-stack development**. I design and build solutions that convert raw data into operational intelligence — across embedded hardware, cloud platforms, and business intelligence layers.
+I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** specializing in the intersection of **industrial digitalization**, **predictive systems**, and **full-stack development**. I design and build solutions that convert raw data into operational intelligence — across embedded hardware, cloud platforms, and business intelligence layers.
 
-- 🎓 **Ph.D.** — Digital Transformation & Predictive Maintenance (Aspirantura, Altai State Technical University)
 - 🏭 **Tech Lead** — Digitalization & Automation in industrial environments
+- 🎓 **Ph.D.** — AI-Driven Condition Monitoring & Adaptive Control (AltSTU)
 - 💼 **MBA** — Business strategy meets engineering execution
+- 💻 **SWE** — Full-stack, embedded systems, and enterprise platforms
 - 🌍 **Global** — Educated & worked across France, Russia, Africa, and internationally
 
 ---
@@ -43,18 +44,34 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 <table>
 <tr>
 <td align="center" width="80"><strong>Degree</strong></td>
-<td align="center" width="200"><strong>Institution</strong></td>
+<td align="center" width="120"><strong>Institution</strong></td>
 <td align="center"><strong>Research / Project</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/MBA-C0392B?style=flat-square&logoColor=white" />
+</td>
+<td align="center">
+  <a href="https://www.esg.fr/">ESG</a>
+</td>
+<td>
+  <a href="https://www.researchgate.net/publication/393902512_Strategic_Business_Plan_for_Digital_Transformation_A_Real-World_Application_of_CDO_Practices">
+  📄 Strategic Business Plan for Digital Transformation: A Real-World Application of CDO Practices
+  </a>
+</td>
 </tr>
 
 <tr>
 <td align="center">
   <img src="https://img.shields.io/badge/Ph.D.-4B0082?style=flat-square&logoColor=white" />
 </td>
-<td>Altai State Technical University</td>
+<td align="center">
+  <a href="https://en.altstu.ru/">AltSTU</a>
+</td>
 <td>
   <a href="https://www.researchgate.net/publication/381648601_Digital_Transformation_in_Industry_A_Predictive_and_Performance-Oriented_Approach_for_Shop-Floor_Maintenance">
-  📄 Digital Transformation in Industry: Predictive & Performance-Oriented Approach for Shop-Floor Maintenance
+  📄 AI-Driven Condition Monitoring of Wind Turbine Gearboxes Using Vibration Data: Adaptive Sliding Mode Control and Non-Destructive Monitoring for Stable Operation
   </a>
 </td>
 </tr>
@@ -63,7 +80,9 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 <td align="center">
   <img src="https://img.shields.io/badge/M.Sc.-0000CD?style=flat-square&logoColor=white" />
 </td>
-<td>KNRTU-KAI (Russia)</td>
+<td align="center">
+  <a href="https://kai.ru/web/en">KNRTU-KAI</a>
+</td>
 <td>
   <a href="https://www.researchgate.net/publication/342004903_Automated_System_for_Human_Physiology_Parameter_Estimation_based_on_Physiological_Signals_Measurement_and_Internet_of_Things_Infrastructure">
   📄 Automated System for Human Physiology Estimation via IoT
@@ -73,9 +92,11 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/B.Sc.-FFD700?style=flat-square&logo=academia&logoColor=black" />
+  <img src="https://img.shields.io/badge/B.Sc.-FFD700?style=flat-square&logoColor=black" />
 </td>
-<td>Aix-Marseille University</td>
+<td align="center">
+  <a href="https://sciences.univ-amu.fr/en">AMU</a>
+</td>
 <td>
   <a href="https://www.researchgate.net/publication/340741973_Micro_System_for_Enterprise_Resource_Planning">
   📄 Micro System for Enterprise Resource Planning
@@ -87,7 +108,9 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 <td align="center">
   <img src="https://img.shields.io/badge/DEUP-8A2BE2?style=flat-square&logoColor=white" />
 </td>
-<td>Aix-Marseille University</td>
+<td align="center">
+  <a href="https://sciences.univ-amu.fr/en">AMU</a>
+</td>
 <td>
   <a href="https://www.researchgate.net/publication/341804048_Management_platform_of_technical_systems_for_industrial_companies">
   📄 Management Platform for Industrial Technical Systems
@@ -99,7 +122,9 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 <td align="center">
   <img src="https://img.shields.io/badge/Dip.-00008B?style=flat-square&logoColor=white" />
 </td>
-<td>African Leadership Academy (ALX)</td>
+<td align="center">
+  <a href="https://www.alxafrica.com/">ALX</a>
+</td>
 <td>
   <a href="https://github.com/alouatiq/ALX">
   💻 E-Madrasa Platform — Airbnb-style EdTech Application
@@ -146,7 +171,7 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alouqtiq&theme=onedark)](https://github.com/alouatiq/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alouatiq&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,13 +181,11 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 
 <div align="center">
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alouatiq&theme=dark&hide_border=true&background=0d1117&ring=e2c97e&fire=e2c97e&currStreakLabel=9ab4c7&sideLabels=9ab4c7&dates=666666)](https://git.io/streak-stats)
+
 <br/>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alouatiq&bg_color=0d1117&color=e2c97e&line=9ab4c7&point=e2c97e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 </div>
 
@@ -175,7 +198,7 @@ I'm a **Tech Lead, Software Engineer, and Ph.D.** specializing in the intersecti
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/alouatiq](https://linkedin.com/in/alouatiq) |
-| 🔬 ResearchGate | [Hassan Al Ouatiq](https://www.researchgate.net/profile/Hassan-Al-Ouatiq) |
+| 🔬 ResearchGate | [Hassan AL OUATIQ](https://www.researchgate.net/profile/Hassan-Al-Ouatiq) |
 | 🌐 Portfolio | [alouatiq.com](https://alouatiq.com) |
 | 🐦 X / Twitter | [@alouatiqcom](https://x.com/alouatiqcom) |
 | 📸 Instagram | [@alouatiqcom](https://www.instagram.com/alouatiqcom) |
