@@ -69,4 +69,37 @@ I'm a **Tech Lead, Ph.D., MBA, and Software Engineer** working at the intersecti
 
 ---
 
-<div align="center"><sub>Profile in progress — building in public.</sub></div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alouatiq&hide_border=true&background=0d1117&ring=e2c97e&fire=e2c97e&currStreakLabel=9ab4c7&sideLabels=9ab4c7&stroke=9ab4c7&dates=666666&currStreakNum=e2c97e&sideNums=e2c97e&dayLabels=9ab4c7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=alouatiq&hide_border=true&background=ffffff&ring=b8860b&fire=b8860b&currStreakLabel=333333&sideLabels=333333&stroke=c9a94e&dates=999999&currStreakNum=b8860b&sideNums=b8860b&dayLabels=333333" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=alouatiq&hide_border=true&background=0d1117&ring=e2c97e&fire=e2c97e&currStreakLabel=9ab4c7&sideLabels=9ab4c7&stroke=9ab4c7&dates=666666&currStreakNum=e2c97e&sideNums=e2c97e&dayLabels=9ab4c7" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alouatiq&bg_color=0d1117&color=e2c97e&line=9ab4c7&point=e2c97e&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alouatiq&bg_color=ffffff&color=b8860b&line=c9a94e&point=b8860b&area=true&hide_border=true" />
+  <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alouatiq&bg_color=0d1117&color=e2c97e&line=9ab4c7&point=e2c97e&area=true&hide_border=true" />
+</picture>
+
+</div>
+
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=alouatiq&color=e2c97e&style=flat-square&label=Profile+Views)
+![GitHub last commit](https://img.shields.io/github/last-commit/alouatiq/alouatiq?label=Last+Contribution&style=flat-square&color=9ab4c7)
+![GitHub followers](https://img.shields.io/github/followers/alouatiq?label=Followers&style=flat-square&color=9ab4c7)
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:aaaaaa,50:808080,100:595959&height=120&section=footer" />
+
+<sub>⭐ <em>Bridging research, engineering & business — one system at a time.</em></sub>
+
+</div>
